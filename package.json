@@ -23,7 +23,7 @@
     "express-ws": "^4.0.0",
     "jsonwebtoken": "^8.5.1",
     "socketio-jwt": "^4.5.0",
-    "ws": "^7.0.0"
+    "ws": "^7.4.6"
   },
   "devDependencies": {}
 }
